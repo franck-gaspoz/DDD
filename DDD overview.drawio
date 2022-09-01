@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T08:50:09.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="KeePriUnmeD6WTAOKrw2" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T08:51:05.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="qP-c4ZdR8miTYate-too" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,6 +64,9 @@
         </mxCell>
         <mxCell id="-3-9wyXVmMevEzcIftEk-23" value="Infrastructure" style="html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="630" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-3-9wyXVmMevEzcIftEk-24" value="&lt;h1&gt;DDD Repositories and Factories&lt;/h1&gt;&lt;p&gt;Dependencies according to Eric Evans (from the blue book)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="20" width="300" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

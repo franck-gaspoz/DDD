@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T01:32:36.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="rTttUFDT1hxDZtx7ok2E" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-03T01:33:25.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="f-YM9zgqpTA4v2Ugw0b1" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="1939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="-3-9wyXVmMevEzcIftEk-23" value="Infrastructure (internal)" style="html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="1628" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-3-9wyXVmMevEzcIftEk-24" value="&lt;h1&gt;DDD Overview&lt;/h1&gt;&lt;p&gt;Dependencies according to Eric Evans (from the blue book)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="-3-9wyXVmMevEzcIftEk-24" value="&lt;h1&gt;DDD Overview - Classes&lt;/h1&gt;&lt;p&gt;Dependencies according to Eric Evans (from the blue book)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="-80" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-3-9wyXVmMevEzcIftEk-25" value="&lt;b&gt;Repository&lt;/b&gt;" style="html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -85,13 +85,14 @@
           <mxGeometry x="535" y="1068" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-3-9wyXVmMevEzcIftEk-34" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-3-9wyXVmMevEzcIftEk-25" target="-3-9wyXVmMevEzcIftEk-7" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
+          <mxGeometry x="0.0537" y="30" width="160" relative="1" as="geometry">
             <mxPoint x="180" y="720" as="sourcePoint" />
             <mxPoint x="510" y="767" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="833" />
               <mxPoint x="200" y="205" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-3-9wyXVmMevEzcIftEk-35" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-3-9wyXVmMevEzcIftEk-26" target="-3-9wyXVmMevEzcIftEk-8" edge="1">

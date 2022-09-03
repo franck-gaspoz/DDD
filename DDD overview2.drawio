@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T01:12:12.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="F3Lve7pyVHkCpZEIXBrU" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-03T01:14:09.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="KswDD7B5AxdWtuWCcpGb" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="1939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -360,6 +360,16 @@
         </mxCell>
         <mxCell id="DfN52wyv_r_r57nIKshW-28" value="Domain (internal)" style="html=1;fillColor=#FFE599;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="1500" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DfN52wyv_r_r57nIKshW-29" value="Exceptions" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="310" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DfN52wyv_r_r57nIKshW-30" value="create" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DfN52wyv_r_r57nIKshW-13" target="DfN52wyv_r_r57nIKshW-29">
+          <mxGeometry x="-0.048" y="-29" relative="1" as="geometry">
+            <mxPoint x="719.1336898395721" y="742" as="sourcePoint" />
+            <mxPoint x="720" y="580" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
